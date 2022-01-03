@@ -3,15 +3,7 @@
 
 The driver class in this program is Calculator.java.
 
-
-# Project Abstract & Description (Orignal Assignment Deliverable)
-
-NIT 25501 Project Abstract & Description
-Created by: Ryan Funke (PUID 00316743611)
-Date: December 12th, 2021
-
-
-Project Abstract
+# Project Abstract (Original Deliverable for Assignment)
 
 The project created for my submission of this assignment was a Fantasy Football point calculator. The original intention for creating the application was to allow users to verify the fantasy scoring of football players by inputting their performance statistics from a game and calculating a total, as errors in applications used to play fantasy football are quite common. This was inspired by one of the labs we had completed previously in this course, and as a result the initial framework for the calculator was built upon some of the code from this lab. 
 
@@ -20,7 +12,7 @@ This calculator is started by the user and opens a graphical user interface whic
 After the user inputs the statistics for a certain player into the GUI and receives a score in the GUI panel, a prompt opens in the console which asks for the name of the player associated with the statistics that were just entered into the program. The program will then create a new player for this entry or simply add the score to the player’s records, which are saved for future reference. Additionally, the player is then added to a “team”, as Fantasy Football operates on teams of players that combine for a user’s total score. These teams contain a roster which stores each player input by the user into the point calculator. 
 
 
-Project Description
+# Project Description (Original Deliverable for Assignment)
 
 The structure of the project relies upon 5 classes, and one interface. These classes are Calculator.java, Player.java, Team.java, SeasonRecord.java, and Ruleset.java. The interface is RecordInterface.java.
 
